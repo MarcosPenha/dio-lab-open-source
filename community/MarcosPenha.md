@@ -7,7 +7,7 @@ Convido a todos para ler meu perfil e conhecer mais sobre minhas realizações p
 
 https://www.linkedin.com/in/marcos-roberto-penha-47643625/
 
-Soft Skills
+Soft Skills: 
 Organizado |
 Comprometimento |
 Perfil Análitico |
@@ -16,7 +16,7 @@ Confiabilidade |
 Aprendizado Contínuo |
 Trabalho em equipe 
 
-Hard Skills
+Hard Skills:
 Python |
 Pacote Office |
 Power BI |
