@@ -8,22 +8,22 @@ Convido a todos para ler meu perfil e conhecer mais sobre minhas realizações p
 https://www.linkedin.com/in/marcos-roberto-penha-47643625/
 
 Soft Skills
-Organizado
-Comprometimento
-Perfil Análitico
-Fácil Adaptabilidade
-Confiabilidade
-Aprendizado Contínuo
-Trabalho em equipe
+Organizado |
+Comprometimento |
+Perfil Análitico |
+Fácil Adaptabilidade |
+Confiabilidade |
+Aprendizado Contínuo |
+Trabalho em equipe 
 
 Hard Skills
-Python
-Pacote Office
-Power BI
-SAP
-ABAP
-MYSQL
-MS Project
-MS Visio
-Bling
+Python |
+Pacote Office |
+Power BI |
+SAP |
+ABAP |
+MYSQL 
+MS Project |
+MS Visio |
+Bling |
 Sharepoint
